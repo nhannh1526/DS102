@@ -1,4 +1,4 @@
-# Do-an-DS102
+# Sentiment analysis of Samsung A50 review
 ## Đồ án Học máy Thống kê - DS102
 ### Phân loại sắc thái phản hồi của khách hàng về sản phẩm Samsung A50  
 Số thứ tự nhóm: 17  
